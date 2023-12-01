@@ -8,7 +8,7 @@
 <p align="center">г. Южно-Сахалинск <br> 2023 год</p>
 
 <h2 align="center">Введение</h2>
-<p align="justify">Создание html-страницы на локальном сервере node.js.</p>
+<p align="justify">Наработка навыков JS</p>
 
 <h2 align="center">Цели и задачи</h2>
 
